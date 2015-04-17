@@ -14,7 +14,7 @@
             <exec.executable>java</exec.executable>
         </properties>
         <activatedProfiles>
-            <activatedProfile>cismet-dev-exec</activatedProfile>
+            <activatedProfile>crisma</activatedProfile>
         </activatedProfiles>
     </action>
     <action>
@@ -32,7 +32,7 @@
             <exec.executable>java</exec.executable>
         </properties>
         <activatedProfiles>
-            <activatedProfile>cismet-dev-exec</activatedProfile>
+            <activatedProfile>crisma</activatedProfile>
         </activatedProfiles>
     </action>
     <action>
